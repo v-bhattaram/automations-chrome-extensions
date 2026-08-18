@@ -2,7 +2,7 @@
 > (c) Venkata Bhattaram | AgenticThat TM+
 
 ## Social Media Scroll and Scrape
-* Manual Scroll and Scrape
+* Manual Scroll and Scrape Data, Save to CSV
 * Scrape Posts
 * Scrape Profiles
 * Supports
@@ -20,5 +20,7 @@
 * Submit Bugs, if DOM Changes
 
 ## Backend Agentic Loop
-* Automatically Updates in case of DOM change
-* Pushes Changes to Extensions
+* These Extensions use a scraper engine to scrape
+* Scraper Engines are downloaded from server repository
+* Automatically Updates Scraper Engines in server case of DOM changes
+* User notified in case of engine updates, Pushes Changes to Extensions, on manual update
